@@ -1,0 +1,4 @@
+[submodule "hidext/sale_installment_contract_v12"]
+	path = hidext/sale_installment_contract_v12
+	url = git@github.com:hidext/sale_installment_contract_v12.git
+	branch = master
